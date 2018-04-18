@@ -1772,7 +1772,7 @@
     },
     "Rhenium": {
       "es": null,
-      "pt": null,
+      "pt": "Rênio",
       "de": null,
       "fr": null,
       "ru": "Рений",
@@ -3852,7 +3852,7 @@
     },
     "Group ingredients?": {
       "es": null,
-      "pt": null,
+      "pt": "Agrupar Ingredientes?",
       "de": "Gruppenzutaten?",
       "fr": "Groupe d'ingrédients ?",
       "ru": "Группировать ингредиенты?",
@@ -3861,7 +3861,7 @@
     },
     "Unknown": {
       "es": null,
-      "pt": null,
+      "pt": "Desconhecido",
       "de": "Unbekannt",
       "fr": "Inconnu",
       "ru": "Неизвестные",
@@ -3870,7 +3870,7 @@
     },
     "Carrying ": {
       "es": null,
-      "pt": null,
+      "pt": "Transportando",
       "de": null,
       "fr": "Capacité",
       "ru": "В наличии ",
@@ -3879,7 +3879,7 @@
     },
     "Emission Data": {
       "es": null,
-      "pt": null,
+      "pt": "Dados de Emissão",
       "de": "Emissionsdaten",
       "fr": "Données d'émission",
       "ru": "Данные об излучениях",
@@ -3888,7 +3888,7 @@
     },
     "Wake Scans": {
       "es": null,
-      "pt": null,
+      "pt": "Escaner de Rastro",
       "de": "Sogwolken Scans",
       "fr": "Données de sillages",
       "ru": "Сканирования следа FSD",
@@ -3897,7 +3897,7 @@
     },
     "Shield Data": {
       "es": null,
-      "pt": null,
+      "pt": "Dados de Escudo",
       "de": "Schilddaten",
       "fr": "Données de bouclier",
       "ru": "Данные о щитах",
@@ -3906,7 +3906,7 @@
     },
     "Encryption Files": {
       "es": null,
-      "pt": null,
+      "pt": "Arquivos Criptografados",
       "de": "Verschlüsselungsdaten",
       "fr": "Fichiers cryptés",
       "ru": "Файлы шифрования",
@@ -3915,7 +3915,7 @@
     },
     "Data Archives": {
       "es": null,
-      "pt": null,
+      "pt": "Arquivos de dados",
       "de": "Datenarchive",
       "fr": "Archives de données",
       "ru": "Архивы данных",
@@ -3924,7 +3924,7 @@
     },
     "Encoded Firmware": {
       "es": null,
-      "pt": null,
+      "pt": "Firmware codificado",
       "de": "Codierte Firmware",
       "fr": "Micrologiciels encodés",
       "ru": "Закодированные микропрограммы",
@@ -3933,7 +3933,7 @@
     },
     "Category 1": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 1",
       "de": "Kategorie 1",
       "fr": "Matériaux bruts - Catégorie 1",
       "ru": "Категория 1",
@@ -3942,7 +3942,7 @@
     },
     "Category 2": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 2",
       "de": "Kategorie 2",
       "fr": "Matériaux bruts - Catégorie 2",
       "ru": "Категория 2",
@@ -3951,7 +3951,7 @@
     },
     "Category 3": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 3",
       "de": "Kategorie 3",
       "fr": "Matériaux bruts - Catégorie 3",
       "ru": "Категория 3",
@@ -3960,7 +3960,7 @@
     },
     "Category 4": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 4",
       "de": "Kategorie 4",
       "fr": "Matériaux bruts - Catégorie 4",
       "ru": "Категория 4",
@@ -3969,7 +3969,7 @@
     },
     "Category 5": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 5",
       "de": "Kategorie 5",
       "fr": "Matériaux bruts - Catégorie 5",
       "ru": "Категория 5",
@@ -3978,7 +3978,7 @@
     },
     "Category 6": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 6",
       "de": "Kategorie 6",
       "fr": "Matériaux bruts - Catégorie 6",
       "ru": "Категория 6",
@@ -3987,7 +3987,7 @@
     },
     "Category 7": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 7",
       "de": "Kategorie 7",
       "fr": "Matériaux bruts - Catégorie 7",
       "ru": "Категория 7",
@@ -3996,7 +3996,7 @@
     },
     "Chemical": {
       "es": null,
-      "pt": null,
+      "pt": "Quimico",
       "de": "Chemikalien",
       "fr": "Produits chimiques",
       "ru": "Химикаты",
@@ -4005,7 +4005,7 @@
     },
     "Thermic": {
       "es": null,
-      "pt": null,
+      "pt": "Termico",
       "de": "Thermisch",
       "fr": "Thermiques",
       "ru": "Термические сплавы",
@@ -4014,7 +4014,7 @@
     },
     "Heat": {
       "es": null,
-      "pt": null,
+      "pt": "Calor",
       "de": "Hitze",
       "fr": "Chaleur",
       "ru": "Теплообмен",
@@ -4023,7 +4023,7 @@
     },
     "Conductive": {
       "es": null,
-      "pt": null,
+      "pt": "Condutor",
       "de": "Leiter",
       "fr": "Conducteurs",
       "ru": "Проводники",
@@ -4032,7 +4032,7 @@
     },
     "Capacitors": {
       "es": null,
-      "pt": null,
+      "pt": "Capacitores",
       "de": "Kondensatoren",
       "fr": "Condensateurs",
       "ru": "Конденсаторы",
@@ -4041,7 +4041,7 @@
     },
     "Shielding": {
       "es": null,
-      "pt": null,
+      "pt": "Protegendo",
       "de": "Abschirmung",
       "fr": "Protection",
       "ru": "Защита",
@@ -4050,7 +4050,7 @@
     },
     "Composite": {
       "es": null,
-      "pt": null,
+      "pt": "Composto",
       "de": "Komposite",
       "fr": "Composites",
       "ru": "Композиты",
@@ -4059,7 +4059,7 @@
     },
     "Crystals": {
       "es": null,
-      "pt": null,
+      "pt": "Cristais",
       "de": "Kristalle",
       "fr": "Cristaux",
       "ru": "Кристаллы",
@@ -4068,7 +4068,7 @@
     },
     "Alloys": {
       "es": null,
-      "pt": null,
+      "pt": "Ligas",
       "de": "Legierungen",
       "fr": "Alliages",
       "ru": "Сплавы",
@@ -4077,7 +4077,7 @@
     },
     "Lead": {
       "es": null,
-      "pt": null,
+      "pt": "Chumbo",
       "de": "Blei",
       "fr": null,
       "ru": "Свинец",
@@ -4086,7 +4086,7 @@
     },
     "Boron": {
       "es": null,
-      "pt": null,
+      "pt": "Boro",
       "de": "Bor",
       "fr": null,
       "ru": "Бор",
@@ -4095,7 +4095,7 @@
     },
     "Guardian Weapon Blueprint Segment": {
       "es": null,
-      "pt": null,
+      "pt": "Segmento de Esquemas de Armas Guardian",
       "de": "Guardian-Waffenbauplansegment",
       "fr": null,
       "ru": "Фрагмент чертежа оружия Стражей",
@@ -4104,7 +4104,7 @@
     },
     "Guardian Power Cell": {
       "es": null,
-      "pt": null,
+      "pt": "Bateria Guuardian",
       "de": "Guardian-Energiezelle",
       "fr": null,
       "ru": "Энергоячейка Стражей",
@@ -4113,7 +4113,7 @@
     },
     "Guardian Technology Component": {
       "es": null,
-      "pt": null,
+      "pt": "Componente de Tecnologia Guardian",
       "de": "Guardian-Technologiekomponente",
       "fr": null,
       "ru": "Компоненты технологий Стражей",
@@ -4122,7 +4122,7 @@
     },
     "Guardian Power Conduit": {
       "es": null,
-      "pt": null,
+      "pt": "Condutor de Força Guardian",
       "de": "Guardian-Energieleiter",
       "fr": null,
       "ru": "Энергопроводники Стражей",
@@ -4131,7 +4131,7 @@
     },
     "Guardian Sentinel Weapon Parts": {
       "es": null,
-      "pt": null,
+      "pt": "Peças de Armas de Sentinela Guardian",
       "de": "Guardian-Wache-Waffenteile",
       "fr": null,
       "ru": "Детали вооружения Стражей",
@@ -4140,7 +4140,7 @@
     },
     "Guardian Module Blueprint Segment": {
       "es": null,
-      "pt": null,
+      "pt": "Segmento de Esquema de Modulo Guardian",
       "de": "Guardian-Modulbauplansegment",
       "fr": null,
       "ru": "Фрагмент чертежа модуля Стражей",
@@ -4149,7 +4149,7 @@
     },
     "Guardian Sentinel Wreckage Components": {
       "es": null,
-      "pt": null,
+      "pt": "Componentes de destroços de Sentinela Guardian",
       "de": "Guardian-Wache Trümmerteile",
       "fr": null,
       "ru": "Обломки кораблекрушений Стража Sentinel",
@@ -4158,7 +4158,7 @@
     },
     "Guardian Vessel Blueprint Segment": {
       "es": null,
-      "pt": null,
+      "pt": "Segmento de Esquema de Nave Guardian",
       "de": "Guardian-Schiffsbauplansegment",
       "fr": null,
       "ru": "Сегмент чертежа судна Стражей",
@@ -4167,7 +4167,7 @@
     },
     "Human": {
       "es": null,
-      "pt": null,
+      "pt": "Humano",
       "de": "Menschlich",
       "fr": null,
       "ru": null,
@@ -4176,7 +4176,7 @@
     },
     "Corrosion Resistant Cargo Rack (2D and 4D)": {
       "es": null,
-      "pt": null,
+      "pt": "Compartimento de Carga Resistente a Corrosão (2D e 4D)",
       "de": "Korrosionsresistentes Frachtegtell (2D and 4D)",
       "fr": null,
       "ru": null,
@@ -4185,7 +4185,7 @@
     },
     "Enzyme Missile Rack": {
       "es": null,
-      "pt": null,
+      "pt": "Lançador de Míssel de Enzima",
       "de": "Enzym Raketenrampe",
       "fr": null,
       "ru": null,
@@ -4194,7 +4194,7 @@
     },
     "Guardian": {
       "es": null,
-      "pt": null,
+      "pt": "Guardian",
       "de": "Guardian",
       "fr": null,
       "ru": null,
@@ -4203,7 +4203,7 @@
     },
     "Guardian Gauss Cannon (Fixed)": {
       "es": null,
-      "pt": null,
+      "pt": "Canhão de Gauss Guardian (Fixo)",
       "de": "Guardian-Gausskannone (Fest)",
       "fr": "Canon de gauss - Guardians (Fixe)",
       "ru": null,
@@ -4212,7 +4212,7 @@
     },
     "Guardian Plasma Charger (Fixed)": {
       "es": null,
-      "pt": null,
+      "pt": "Canhão de Plasma Guardian (Fixo)",
       "de": "Guardian-Plasmalader (Fest)",
       "fr": "Chargeur à plasma - Guardians (Fixe)",
       "ru": null,
@@ -4221,7 +4221,7 @@
     },
     "Guardian Plasma Charger (Turreted)": {
       "es": null,
-      "pt": null,
+      "pt": "Canhão de Plasma Guardian (Torre)",
       "de": "Guardian-Plasmalader (Turm)",
       "fr": "Chargeur à plasma - Guardians (Tourelle)",
       "ru": null,
@@ -4230,7 +4230,7 @@
     },
     "Guardian Hybrid Power Plant": {
       "es": null,
-      "pt": null,
+      "pt": "Gerador de Energia Hibrido Guardian",
       "de": "Guardian-Kraftwerk",
       "fr": "Générateur - Guardians",
       "ru": null,
@@ -4239,7 +4239,7 @@
     },
     "Meta Alloy Hull Reinforcement": {
       "es": null,
-      "pt": null,
+      "pt": "Reforço de Casco de Meta-ligas",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4509,7 +4509,7 @@
     },
     "Screening Shell": {
       "es": null,
-      "pt": null,
+      "pt": "Munição berrante",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4518,7 +4518,7 @@
     },
     "Drag Munition (Seeker only)": {
       "es": null,
-      "pt": null,
+      "pt": "Munição de Arrasto (Rastreadora apenas)",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4527,7 +4527,7 @@
     },
     "Overload Munitions": {
       "es": null,
-      "pt": null,
+      "pt": "Munição de sobrecarga",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4536,7 +4536,7 @@
     },
     "Penetrator Munitions (Dumbfire only)": {
       "es": null,
-      "pt": null,
+      "pt": "Munição penetradora (Disparo Simples apenas)",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4545,7 +4545,7 @@
     },
     "FSD Interrupt (Dumbfire only)": {
       "es": null,
-      "pt": null,
+      "pt": "Interruptor de MMD (Disparo simples apenas)",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4554,7 +4554,7 @@
     },
     "Mass Lock Munition": {
       "es": null,
-      "pt": null,
+      "pt": "Munição de Bloqueio de Massa",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4563,7 +4563,7 @@
     },
     "Penetrator Payload": {
       "es": null,
-      "pt": null,
+      "pt": "Penetrador de Carga",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4572,7 +4572,7 @@
     },
     "Reverberating Cascade": {
       "es": null,
-      "pt": null,
+      "pt": "Reverberação em Cascata",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4581,7 +4581,7 @@
     },
     "Ion Disruptor": {
       "es": null,
-      "pt": null,
+      "pt": "Disruptor de Íons",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4590,7 +4590,7 @@
     },
     "Radiant Canister": {
       "es": null,
-      "pt": null,
+      "pt": "Compartimento Radiante",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4599,7 +4599,7 @@
     },
     "Shift-Lock Canister": {
       "es": null,
-      "pt": null,
+      "pt": "Compartimento Shift-Lock",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4608,7 +4608,7 @@
     },
     "Target Lock Breaker": {
       "es": null,
-      "pt": null,
+      "pt": "Liberação e trava de alvo",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4617,7 +4617,7 @@
     },
     "Plasma Slug": {
       "es": null,
-      "pt": null,
+      "pt": "Massa de Plasma",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4626,7 +4626,7 @@
     },
     "Feedback Cascade": {
       "es": null,
-      "pt": null,
+      "pt": "Resposta em cascata",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4635,7 +4635,7 @@
     },
     "Super Penetrator": {
       "es": null,
-      "pt": null,
+      "pt": "Super Penetração",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4644,7 +4644,7 @@
     },
     "@Technology": {
       "es": null,
-      "pt": null,
+      "pt": "@Tecnologia",
       "de": null,
       "fr": null,
       "ru": "@Технология",
@@ -4653,7 +4653,7 @@
     },
     "Module": {
       "es": null,
-      "pt": null,
+      "pt": "Módulo",
       "de": null,
       "fr": null,
       "ru": "Модули",
@@ -4662,7 +4662,7 @@
     },
     "Synthesis": {
       "es": null,
-      "pt": null,
+      "pt": "Síntese",
       "de": null,
       "fr": null,
       "ru": "Синтез",
@@ -4671,7 +4671,7 @@
     },
     "Experimental": {
       "es": null,
-      "pt": null,
+      "pt": "Experimental",
       "de": null,
       "fr": null,
       "ru": "Экспериментальные",
@@ -4680,7 +4680,7 @@
     },
     "Technology": {
       "es": null,
-      "pt": null,
+      "pt": "Tecnologia",
       "de": null,
       "fr": null,
       "ru": "Технологии",
@@ -4689,7 +4689,7 @@
     },
     "Ancient/Guardian ruins": {
       "es": null,
-      "pt": null,
+      "pt": "Ruínas Antigas Guardian",
       "de": null,
       "fr": null,
       "ru": "Руины Стражей",
@@ -4698,7 +4698,7 @@
     },
     "EDEngineer will try to remove blueprints from your shopping list if you craft them in game": {
       "es": null,
-      "pt": null,
+      "pt": "EDEngineer tentará remover esquemas da sua lista de compras se você criá-las no jogo",
       "de": null,
       "fr": null,
       "ru": "EDEngineer попытается удалять чертежи из списка покупок при создании их в игре",
@@ -4707,7 +4707,7 @@
     },
     "Thermal Spread": {
       "es": null,
-      "pt": null,
+      "pt": "Disperção Térmica",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4716,7 +4716,7 @@
     },
     "Monstered": {
       "es": null,
-      "pt": null,
+      "pt": "Bestificado",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4725,7 +4725,7 @@
     },
     "Angled Plating": {
       "es": null,
-      "pt": null,
+      "pt": "Revestimento em ângulo",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4734,7 +4734,7 @@
     },
     "Layered Plating": {
       "es": null,
-      "pt": null,
+      "pt": "Revestimento em Camadas",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4743,7 +4743,7 @@
     },
     "Reflective Plating": {
       "es": null,
-      "pt": null,
+      "pt": "Revestimento Refletivo",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4752,7 +4752,7 @@
     },
     "Deep Plating": {
       "es": null,
-      "pt": null,
+      "pt": "Revestimento Profundo",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4761,7 +4761,7 @@
     },
     "Boss Cells": {
       "es": null,
-      "pt": null,
+      "pt": "Célula Principal",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4770,7 +4770,7 @@
     },
     "Recycling Cells": {
       "es": null,
-      "pt": null,
+      "pt": "Céculas de Reciclagem",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4779,7 +4779,7 @@
     },
     "Force Block": {
       "es": null,
-      "pt": null,
+      "pt": "Bloco de Força",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4788,7 +4788,7 @@
     },
     "Thermo Block": {
       "es": null,
-      "pt": null,
+      "pt": "Bloco Térmico",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4797,7 +4797,7 @@
     },
     "Blast Block": {
       "es": null,
-      "pt": null,
+      "pt": "Bloco Explosivo",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4806,7 +4806,7 @@
     },
     "Super Capacitor": {
       "es": null,
-      "pt": null,
+      "pt": "Super Capacitor",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4815,7 +4815,7 @@
     },
     "Hi-cap": {
       "es": null,
-      "pt": null,
+      "pt": "Hi-cap",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4824,7 +4824,7 @@
     },
     "Multi-weave": {
       "es": null,
-      "pt": null,
+      "pt": "Multi-onda",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4833,7 +4833,7 @@
     },
     "Fast Charge": {
       "es": null,
-      "pt": null,
+      "pt": "Carregamento Rápido",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4842,7 +4842,7 @@
     },
     "Lo-draw": {
       "es": null,
-      "pt": null,
+      "pt": "Baixo arrasto",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4851,7 +4851,7 @@
     },
     "Deep Charge": {
       "es": null,
-      "pt": null,
+      "pt": "Carregamento Profundo",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4860,7 +4860,7 @@
     },
     "Mass Manager": {
       "es": null,
-      "pt": null,
+      "pt": "Controle de Massa",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4869,7 +4869,7 @@
     },
     "Drive Distributors": {
       "es": null,
-      "pt": null,
+      "pt": "Distribuidores de Motor",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4878,7 +4878,7 @@
     },
     "Drag Drives": {
       "es": null,
-      "pt": null,
+      "pt": "Motores de Arrasto",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4887,7 +4887,7 @@
     },
     "Super Conduits": {
       "es": null,
-      "pt": null,
+      "pt": "Super-condutores",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4896,7 +4896,7 @@
     },
     "Cluster Capacitor": {
       "es": null,
-      "pt": null,
+      "pt": "Capacitores em Grupo",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4905,7 +4905,7 @@
     },
     "Thargoid": {
       "es": null,
-      "pt": null,
+      "pt": "Thargoid",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4914,7 +4914,7 @@
     },
     "Top Source Systems": {
       "es": null,
-      "pt": null,
+      "pt": "Sistemas de Fonte Principal",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4923,7 +4923,7 @@
     },
     "System:": {
       "es": null,
-      "pt": null,
+      "pt": "Sistema",
       "de": null,
       "fr": null,
       "ru": null,
